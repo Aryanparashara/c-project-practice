@@ -7,7 +7,7 @@ int main()
   printf("\n  3.Product ");
   printf("\n  4.Division ");
   printf("\n  5.Exit ");
-  printf("\n Enter your choice ");
+  printf("\n Enter your choice: ");
   scanf("%d",&ch);
   switch(ch)
   {
